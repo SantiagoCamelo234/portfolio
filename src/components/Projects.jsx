@@ -19,9 +19,9 @@ const Projects = () => {
       title: 'Sistema de Gestión de Hospitales',
       description: 'Aplicación web para gestión de Hospitales, incluyendo autenticacion de usuarios, CRUD, gestion de permisos y generacion de reportes.',
       technologies: ['React', 'JavaScript', 'MongoDB', 'Node.js', 'Express'],
-      image: 'https://via.placeholder.com/600x400/8b5cf6/ffffff?text=Proyecto+2',
-      github: 'https://github.com/tu-usuario/proyecto-2',
-      demo: 'https://demo-proyecto-2.com',
+      image: './../../public/images/gestion-hospitales.png',
+      github: 'https://github.com/SantiagoCamelo234/hospital-backend',
+      demo: 'https://hospital-frontend-gules.vercel.app/',
       featured: false
     },
     {
